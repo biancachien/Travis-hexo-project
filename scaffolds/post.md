@@ -1,9 +1,9 @@
 ---
-title:{{title}}
+title: {{ title }}
 tags:
   - Angular
 categories: Angular
-description: note
+description:
 abbrlink: 
-date:{{date}}
+date: {{ date }}
 ---
