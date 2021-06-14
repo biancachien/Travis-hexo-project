@@ -7,8 +7,6 @@ description: 專案介紹 & CLI
 abbrlink: fb6cf8f6
 date: 2021-06-12 18:39:00
 ---
-# Angular - 專案介紹 & CLI
-
 **專案介紹**
 ---
 **設定檔**

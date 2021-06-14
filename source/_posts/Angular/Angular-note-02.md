@@ -3,16 +3,16 @@ title: Angular 02- 資料繫結方法(一) - 內嵌繫結(Interpolation)
 tags:
   - Angular
 categories: Angular
-description: '內嵌繫結(Interpolation)-{{ property }}'
+description: '內嵌繫結(Interpolation)'
 abbrlink: ec3b586
-date:
+date: 2021-06-13 01:39:00
 ---
 **基本概念**
 ---
 
-語法 `{{ value }}`
+語法： `{{ value }}`
 
-概念：單向繫結，由component.ts將變數單向綁定到template(html)畫面上。
+概念：單向繫結，由component(ts)將變數單向綁定到template(html)畫面上。
 
 **運用在標籤**
 ---

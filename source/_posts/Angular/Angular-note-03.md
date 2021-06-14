@@ -1,18 +1,17 @@
 ---
-title: Angular-note-03
+title: Angular 03- 資料繫結方法(二) - 屬性繫結(Property Binding)
 tags:
   - Angular
 categories: Angular
 abbrlink: 86b3ed03
 date: 2021-06-13 03:25:39
-description:
+description: '屬性繫結(Property Binding)'
 ---
-# Angular 03- 資料繫結方法(二) - 屬性繫結(Property Binding)
 **基本概念**
 ---
-* 語法 `[ property ] = "value"`
+* 語法： `[ property ] = "value"`
 
-* 概念：單向繫結，由component.ts將變數單向綁定到template(html)畫面上。
+* 概念：單向繫結，由component(ts)將變數單向綁定到template(html)畫面上。
 
 **重要觀念釐清**
 ---
